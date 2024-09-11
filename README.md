@@ -1,6 +1,7 @@
 Welcome to the XSS WAF Bypass Techniques ! This repository is a curated collection of advanced payloads, techniques, and tricks to bypass Web Application Firewalls (WAFs) when exploiting Cross-Site Scripting (XSS) vulnerabilities. This guide is intended for penetration testers, bug bounty hunters, and ethical hackers who want to stay ahead of the game.
 
 **What You'll Find Here**
+
 This repository contains a variety of payloads and methods designed to bypass common WAFs, including but not limited to:
 
   Redirection Payloads: Techniques to manipulate document.location and window.location for effective redirection attacks.
