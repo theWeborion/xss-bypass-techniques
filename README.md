@@ -11,6 +11,7 @@ This repository contains a variety of payloads and methods designed to bypass co
   Concatenation and Encoding Techniques: Combining strings and encoding payloads to slip past pattern-based filters.
 
 **Why Use This Repository?**
+
 Web Application Firewalls (WAFs) are an essential defense layer for web applications, but they are not invincible. This repository aims to:
 
   Provide educational content for ethical hacking and security research.
@@ -18,9 +19,11 @@ Web Application Firewalls (WAFs) are an essential defense layer for web applicat
   Enable developers and cybersecurity experts to strengthen their defenses by learning how common attacks evade detection.
 
 **Disclaimer**
+
 Warning: The payloads and techniques provided in this repository are for educational and ethical purposes only. Misuse of these techniques to compromise systems without proper authorization is illegal and unethical. Always ensure you have permission from the target organization before conducting any security testing.
 
 **How to Use**
+
   Explore the Payloads: Browse through the list of XSS bypass payloads to find the one that suits your testing scenario.
   Test and Adapt: Each environment is different; customize and adapt the payloads to achieve maximum effectiveness.
   Contribute: Have a unique payload or bypass technique? Feel free to fork the repository and contribute!
