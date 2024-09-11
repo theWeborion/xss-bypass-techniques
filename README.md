@@ -5,6 +5,7 @@ Welcome to the XSS WAF Bypass Techniques ! This repository is a curated collecti
 This repository contains a variety of payloads and methods designed to bypass common WAFs, including but not limited to:
 
   Redirection Payloads: Techniques to manipulate document.location and window.location for effective redirection attacks.
+  
   Cookie Stealing Payloads: Methods to extract cookies from unsuspecting users.
   JavaScript Execution Tricks: Various techniques to obfuscate JavaScript code and execute it despite WAF protections.
   HTML Entity and Unicode Obfuscation: Using HTML entities and Unicode to craft payloads that evade standard detection mechanisms.
